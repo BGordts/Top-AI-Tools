@@ -136,5 +136,10 @@ curated list of top AI Tools.
 |------ | ------------ | :----------: |
 | Picterra | AI geospatial software platform for feature & change detection in satellite, drone, & aerial imagery | [🔗](https://picterra.ch/)|
 
+## Hiring / Recruiting
+| Tools | Used for | Link |
+|------ | ------------ | :----------: |
+| HollyHires | An AI-assistant that understands your roles, proposes candidates and reaches out automatically to book interviews | [🔗](https://www.hollyhires.ai)|
+
 Source: https://graspcoding.com/discover-the-future-a-curated-index-for-the-best-ai-powered-products/
 
